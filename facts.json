@@ -1,0 +1,25 @@
+{
+  "source": "https://claude.com/product/cowork",
+  "recorded": "2026-10-21",
+  "facts": [
+    {"id": "plan-pro", "text": "Claude Cowork is included in your Pro plan."},
+    {"id": "plan-max-5x", "text": "Claude Cowork is included in your Max plan."},
+    {"id": "plan-max-20x", "text": "Even more Claude Cowork included in your Max plan."},
+    {"id": "plan-team", "text": "Claude Cowork and the Slack connector are included in your Team plan standard and premium seats."},
+    {"id": "plan-enterprise", "text": "Claude Cowork is included in your Enterprise plan."},
+    {"id": "availability", "text": "Available in Pro, Max, and Team plans automatically. Enterprise plans can opt in."},
+    {"id": "limits-note", "text": "Usage limits"},
+    {"id": "disclaimer", "text": "Price and plans are subject to change at Anthropic's discretion."},
+    {"id": "surface", "text": "Claude Cowork runs on web, desktop, and mobile and is the same Claude, wherever you work."},
+    {"id": "offline", "text": "Close your laptop, it keeps going."},
+    {"id": "phone", "text": "Start a task from your phone, and Claude keeps working in the cloud even when your laptop is closed."},
+    {"id": "placement", "text": "Amazon Bedrock, Gemini Enterprise Agent Platform, or Microsoft Foundry"},
+    {"id": "files-only-chosen", "text": "You choose the folders and tools."},
+    {"id": "delete-approval", "text": "Deleting anything needs your approval."},
+    {"id": "asks-before-acting", "text": "Claude asks before acting"},
+    {"id": "siem", "text": "Activity streams to your SIEM through OpenTelemetry."},
+    {"id": "not-coding", "text": "Cowork is built for non-coding knowledge work"},
+    {"id": "same-approach", "text": "It uses the same agentic approach as Claude Code."}
+  ],
+  "prices": ["$17", "$100", "$200", "$20"]
+}
